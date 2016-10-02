@@ -1,0 +1,11 @@
+img {
+  max-width: 500px;
+}
+figcaption {
+  max-width: 500px;
+}
+figure {
+  display: inline-block;
+  margin: 20px;
+  vertical-align: top;
+}
