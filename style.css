@@ -2,6 +2,7 @@ img {
   max-width: 500px;
 }
 figcaption {
+  margin-top: 7px;
   max-width: 500px;
 }
 figure {
