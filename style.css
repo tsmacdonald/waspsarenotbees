@@ -1,6 +1,9 @@
 img {
   max-width: 500px;
 }
+img#flowchart {
+  max-width: 100%;
+}
 figcaption {
   margin-top: 7px;
   max-width: 500px;
